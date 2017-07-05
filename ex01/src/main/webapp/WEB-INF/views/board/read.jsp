@@ -2,7 +2,7 @@
 	pageEncoding="UTF-8"%>
 
 <%@include file="../include/header.jsp"%>
-
+test1
 	<script>
 				
 $(document).ready(function(){
